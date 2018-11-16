@@ -6,6 +6,13 @@
 
 ### THE GRID VALUES ###
 
+As the initial GRID CORE we share or accumulate certain values.
+To identify a few of them let's list some thoughts ...
+
+* We deeply believe in the value of equality and the right on individual progress
+* Mankind has to research on ways to reduce its negative impact on surrounding lifeforms, for example caused by un-/intentionally created pain, suffering, ignorance and discrimination.
+* Mankind has to find ways to integrate individuality, the human collective to overcome the threat of extinction.
+* The human being is a transitional species, trapped in-between archaic past and science-fiction. To accept ourselves and transform us towards positive potential, we need to discuss utopical ideas more importantly than framing conditions.
 
 Supported behaviour
 
@@ -22,14 +29,14 @@ Supported behaviour
 
 The GRID FRAMEWORK is influenced by different ideas and concept, like:
 
-	* beuys' idea of the social sculpture
-	* agility / the agile manifesto
-	* holacracy and other new forms of thinking organizations 
-	* responsive org 
-	* decentralization, also in the context of technology of course
-	* liquid democracy
+* beuys' idea of the social sculpture
+* agility / the agile manifesto
+* holacracy and other new forms of thinking organizations 
+* responsive org 
+* decentralization, also in the context of technology of course
+* liquid democracy
 
-	... and many more.
+... and many more.
 
 The GRID FRAMEWORK consists of some core assets articulated as GRID MECHANICS:
 
@@ -46,9 +53,9 @@ The GRID FRAMEWORK consists of some core assets articulated as GRID MECHANICS:
 
  This could be applied to various intentions like ...
 	
-	* working on a new business idea 
-	* forming a special interest group
-	* bringing together interdisciplinary initiative  
+* working on a new business idea 
+* forming a special interest group
+* bringing together interdisciplinary initiative  
 
 
 
