@@ -1,4 +1,5 @@
-# GRID MANIFESTO V.0 #
+# REAMDE - GRID MANIFESTO V.0 #
+
 
 
 
@@ -13,6 +14,7 @@ the right, we value the items on the left more.
 
 ### What is the grid manifesto? ###
 
+* Jump directly to [GRIDMANIFESTO](./GRIDMANIFESTO.md).
 * An open-source framework to push social evolution
 * A declaration of core values to aim for
 * A toolbox for purposeful collaboration
