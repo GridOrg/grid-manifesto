@@ -5,8 +5,7 @@
 
 The GRID got ramped-up in May 2018.
 
-The early ambition was to trigger the existence of a decentralized network of individuals. 
-Individuals of any color, sex, religion ..., but compatible enough to form a platform for new chances.
+The early ambition was to trigger the existence of a decentralized network of individuals. Individuals of any color, sex, religion or social background ..., but compatible enough to form a platform for new chances.
 
 Chances for the creation of cultural assets as well as chances for bringing together the right people at the right time.
 As articulated in the film Fight Club ... 
@@ -16,15 +15,29 @@ As articulated in the film Fight Club ...
 	You are not the shoes you wear.
 	You are not the contents of your wallet.'
 
-... the very initial motivation behind the GRID is to start a journey and work for the liberation of individual and group potential. A potential, not driven by money or power, but the pure will to create a workforce for building better versions of the world. And we have to improve our world furthermore - there is no alternative:
+... the fundamental motivation behind the GRID is to start an experiment liberating individual and group potential. A potential, not driven by money, not regulated by power, but intrisic motivation.
 
-The world is not totally fucked-up, but many of the latest political trends towards reactionary, populist or even autocratic misconception of reality require action. More than that, humanity has to face many major challenges caused by climate change and our global impact connected the immoral exploitation of natural ressources and other species. Even more than that, we have to answer so many ethical, pragmatical or existentially questions in an increasingly complex world. We haven't overcome inequality, wars, discrimination and many other roadblocks on our way to future. We are not sure what robotics, AI, automation, nano- and biotech and other disruptive technologies will finally mean to or within our existence. 
+The GRID'S ambition level shall be to become a workforce for thinking in better versions of the world. And we have to improve our world furthermore:
 
-The GRID is just meant as a brick on the road to be paved. Nothing more.
+The world is not totally fucked-up, but ...
+... many of the latest political trends, caused by reactionary, populist or even autocratic misconception and degrtion of reality require immediate and long-term action. As humanity we have to become better version of ourselves, not the contrary. Thrown into existence, we are not consumers, not slaves, not workers for anyone else - we are same. Our world is connected and physically limited when it comes earths ressources we feast on. Only the increase of collective wisdom, foresight, empathie and collaboration will save us. Not anything like the law of the jungle, walls, suppression, protectionism or any other medieval power behaviour. We have to invest into a global sociocultural evolution, not into climbing back into trees throwing stones at each other. 
 
-And this all starts with people. People, which show buy-in and share lots and lots of hours of discussion, exchange of hypotheses and people who try and fail and try and ... . 
-Still, the main theme of the GRID shall be to free ourselves from determining factors to become better versions of it.
-With the targets of interpersonal and social contribution, the exchange and action on ideas.
+More than that, humanity has to face many major challenges, for example caused by climate change and our global impact connected the immoral exploitation of natural ressources (including other species). We must grow up. 
+
+Even more than that, we have to answer so many ethical, pragmatical or existentially questions in an increasingly complex world. We haven't overcome inequality, wars, discrimination and many other roadblocks on our way to future. We are not sure what robotics, AI, automation, nano- and biotech and other disruptive technologies will finally mean to or within our existence. 
+
+The GRID is not an answer to the big question of this centruy. But it tries to identify valid questions. It is just meant as a small brick on the road which needs to be paved, not the road itself. 
+The GRID is intended to perhaps become a social plastic, a think tank, a decentral collaboration collective, a room for reflection, analysis and debate.
+
+Nothing more.
+And nothing less!
+
+This all starts with people. People, who show buy-in and are willing to share lots and lots of hours of discussion, exchanging hypotheses and chatting.
+People who try and fail - endless times perhaps. 
+
+
+The GRID is not a promise, it's an unproven experiment.
+
 
 ____________
 
@@ -69,6 +82,8 @@ The *GRID is not*:
 * A binding show! Once you became GRIDSTER, there is no binding form or frequence of contribution. But obviously the chances are low to create high impact without participation or contribution. But it's not anyhow connected to binding mechanisms.
 
 
+____________
+
 ### THE GRID VALUES ###
 
 As the initial GRID CORE we share or accumulate certain values.
@@ -79,9 +94,10 @@ To identify a few of them let's list some thoughts ...
 * Mankind has to find ways to integrate individuality, the human collective to overcome the threat of extinction.
 * The human being is a transitional species, trapped in-between archaic past and science-fiction. To accept ourselves and transform us towards positive potential, we need to discuss utopical ideas more importantly than framing conditions.
 
-Supported behaviour
+Behaviour and attitudes we welcome:
 
-* critical thinking and challenging discussion
+* critical challenging thinking
+* openness for exchange of thoughts
 * creativity and experimentation
 * the value of non-functionality
 * collaboration and constuctivity
@@ -89,6 +105,16 @@ Supported behaviour
 * utopical conception of 'what can be'
 * sharing among others and contribution
 * curiosity and the willingness to learn
+
+
+### GRID FRAMEWORK ###
+
+The GRID FRAMEWORK explains ideas and concepts for running the GRID.
+
+Besides infos about the GRID or the GRID MANIFSTO itself this framework will be published as food for thoughts.
+We invite everyone and every social constellation to adapt, hack, modify or replicate certain concepts or the full framework for own purposes. The GRID collective will for shure see evolution, so that we will change underlying approaches or practices. Important changes will be updated. 
+
+If you want to share your findings, ideas or feedback, please reach out to gridcore@into-the-grid.org
 
 
 
