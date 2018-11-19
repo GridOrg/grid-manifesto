@@ -30,6 +30,7 @@ The GRID is not an answer to the big question of this centruy. But it tries to i
 The GRID is intended to perhaps become a social plastic, a think tank, a decentral collaboration collective, a room for reflection, analysis and debate.
 
 Nothing more.
+
 And nothing less!
 
 This all starts with people. People, who show buy-in and are willing to share lots and lots of hours of discussion, exchanging hypotheses and chatting.
@@ -37,9 +38,13 @@ People who try and fail - endless times perhaps.
 
 
 The GRID is not a promise, it's an unproven experiment.
+
 The GRID is not a political party, it's just people.
+
 The GRID is not a secret organization, it's an environment of collaborators.
+
 The GRID is not a commercial project, it's a social plastic.
+
 The GRID has no investors, it is just there ...
 
 
@@ -113,6 +118,33 @@ ____________
 * For granted - forming, maintaining, sustaining the GRID and it's evolution is hard work. There is always the risk for ultimate failure - and that is ok.
 * A binding show! Once you became GRIDSTER, there is no binding form or frequence of contribution. But obviously the chances are low to create high impact without participation or contribution. But it's not anyhow connected to binding mechanisms.
 
+____________
+
+### THE AGENDA ###
+
+There are MAIN THEMES and SUB ITEMS ...
+
+#### A MAIN THEME ####
+
+... is 'a more or less everlasting topic on our radar'
+
+- It is everlasting in a sense, that is not a weekly thing, nothing connected to daily politics, nothing which is done once a connected project succesfully was done
+- Reflect a MAIN THEME as a **category of challenge** to think and act for / against
+- A main theme could be 'ENVIRONMENT & SUSTAINABILITY' or 'FUTURE OF WORK'
+- All main themes in sum are a collection of topics / topic areas illustrating what the GRID feels of what needs to be improved
+
+#### SUB-ITEMS #### 
+
+... OF THE AGENDA are sub-items of MAIN THEMES.
+
+Example: 
+MAIN THEME is ENVIRONMENT & SUSTAINABILITY
+- a sub item would be SUSTAINABLE FOOD (PRODUCTION)
+
+Per sub-item we collect initiatives, papers, discussions, findings on this topic. All items therefore reflect a more actionable projection-area than the main themes above - which are perhaps more the framing foundation. 
+
+We do not need more than these two levels of categorization. 
+
 
 ____________
 
@@ -146,7 +178,9 @@ The GRID FRAMEWORK explains ideas and concepts for running the GRID.
 Besides infos about the GRID or the GRID MANIFSTO itself this framework will be published as food for thoughts.
 We invite everyone and every social constellation to adapt, hack, modify or replicate certain concepts or the full framework for own purposes. The GRID collective will for shure see evolution, so that we will change underlying approaches or practices. Important changes will be updated. 
 
-If you want to share your findings, ideas or feedback, please reach out to gridcore@into-the-grid.org
+If you want to share your findings, ideas or feedback, please reach out to 
+
+gridcore@into-the-grid.org
 
 
 
@@ -171,5 +205,6 @@ If you want to share your findings, ideas or feedback, please reach out to gridc
 ### Ideas we like ###
 
 [Responsive Org](http://www.responsive.org/manifesto)
+
 [Agile Manifesto](http://agilemanifesto.org/)
 
