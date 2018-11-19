@@ -37,41 +37,73 @@ People who try and fail - endless times perhaps.
 
 
 The GRID is not a promise, it's an unproven experiment.
+The GRID is not a political party, it's just people.
+The GRID is not a secret organization, it's an environment of collaborators.
+The GRID is not a commercial project, it's a social plastic.
+The GRID has no investors, it is just there ...
 
 
 ____________
 
-The GRID shall be a *mashup of the following*:
+#### What are the targets of the GRID? ####
+
+As the GRID is in its ramp-up phase it would not be appropriate to speak in only bold words. 
+
+One initial target is the establishment of the GRID existence as such. It has to be pretty clear that there are tons of impediments and challenges to pass an initial phase with success.
+
+We divided up the three phases:
+
+1) Ramp-Up: establish a formal shape of how we work and discuss the agenda and values in more details. In parallel let's experiment with the challenges within an initial core group, to later start with better practices and provide some more answers. This phase is the most critical one, since the number of people is small, so that there is no critical mass to sustain traction and flow. At any point in time this phase can fail due to lack of participation etc. That's because the number of people is not granting motivational offering for each individual in a way that it feels the movement. This phase would be a hard check of survival chances for the GRID.
+
+2) Roll-Out: once the first phase would be passed, we defined that the roll-out in doses would be important to naturally grow and sustain the needed social integration step-by-step. With the second phase also tooling, time arrangements (like video meetings etc.) needs to scale up according to the increased number of gridsters. The same goes for interaction methodologies, like votings, orga, aso. So the second phase is connected to a lot of pragmatical challenges connected to the roll-out. Secondly, this phase shall be self-sustaining in regards to the traction on initiatives, experiments, agenda discussions or finally outcome. That's why it becomes important to push the focus on action items more compared to a more theoretical 'founding' 
+phase ...
+
+3) Scale-Out: in this phase a critical size would be exceeded (self-sustaining-wise) and the first challenges are taken. Now it's about scalability in methodology and decentralized organization. At this points we should have learned how to deal with trolls, failure and growth. We should have learned which GRID-functions work out, which not and how to adapt the overall practices to sustain the GRID in a flexible way and also to stay lean. At this point perhaps the GRID is a different contruct in itself, because new needs had to be answered, like the need to have a source for funding GRID ideas. That's why, it is not a target today to determine the final format or details if the consistency to values stays in line. 
+
+The targets of GRID (articulated out of a present perspective) are deeply connected to what was already said. To pin it down to more measurable statements, let's take a look at a list of these:
+
+- The GRID should come up with feasible concepts for real-life problems connected to the GRID agenda items. The agenda morphs over time, but is glued to more binding values. An agenda item might be connected to a real-world problem and the agenda item 'ENERGY GENERATION' out of 'ENVIRONMENT & SUSTAINABILITY'... a problem could be connected to individual energy generation based on wind energy. Then the measurement of course would be a feasible concept and perhaps a spin-off based on a solution approach which could be valid here. So, the production of measurable output is one of the important aspects. But to get it right in the big picture - output could also be a proper art project or a theoretical concept or research outcome.
+- The GRID should create uptopical drafts to balance the dystopical practice of today. Which means, that in this area it's not really to measure, if all concepts or ideas can or will be done, it is more about the creation of a vision humanity never will accomplish. It's about the thinking in possibilities, it's about images of what could be. If we are on A, what should B look like? What would be a reasonable first step towards the direction of B ... Thinking in utopical terms is a training of thinking in systems, alternatives and creation.
+- The GRID will merge disciplines. There is no single truth. Reality is holistic. The merging of perspectives allows new insights. Tech-knowledge applied to art makes new brushes and vice versa. We value the inner-domain progress, but also think that it is needed to bring perspectives back into a bigger picture. That's why we do not follow one 'religion of thoughts', we make use of these concept-boxes as tools. A target here would be to let new forms of re-combination, mashups of multidisciplinary approaches emerge as regular practice.
+- The GRID is an important vehicle for the projection of skills, attitudes, experiences, opinions and knowledges into a bigger picture of purposeful collaboration. BUT - the final impediment in the context of free time-usage are the needs of existence, like connected to the need for making money (so that families can exist) etc. That's why, the GRID should allow and support that gridsters use themselves to find new possibilites through collaboration. This can be the founding of a business, networking or even to work on new econonomical concepts. The time people spent should be reflected as an invest into the human society as such. We are not at the end of evolution of how one could use the lifetime.
+- The GRID should always be connected to art and creative practices. 
+- The GRID should always be connected to technology and science.
+- The GRID should be valuable as a social environment, which is not centrally controlled.
+
+____________
+
+#### The GRID shall become a *mashup of the following* ####
 
 * A decentralized environment allowing people to connect and collaborate
 * A laboratory and think-tank
-* A place where to create ways of participation
-* A statement against reactionary tendencies or other forms of fatal misconception
+* A place for researching on new ways of participation
+* A clear statement against reactionary, populist, fashist or racist tendencies and other forms of fatal misconception
 * A network of individuals sharing the general belief that lifetime could be better spent (and abilities could utilized and developed more purposeful) than in monolithic job-constructs
 * A non-commercial collective which supports the formation of commercial spin-offs (comment: monetarization of own work and ideas is not bad, if a resulting organization is willing to commit to moral and sustainability standards) as well as other initiatives (like cultural or social projects)
-* A interdisciplinary room where art, technology, critical thinking or research are not antagonists at all, but domains of stimulation for each other
+* An interdisciplinary room where art, technology, critical thinking and research are not antagonists at all, but domains of multidisciplinary stimulation
 * A concept in which innovation, invention and ideation is understood as a cultural methodology to overcome problems - nothing more (!)
 * A place where the creation of cultural, technological or commercial assets is reflected as natural human behaviour
-* A call for utopical concepts and promising ideas related to the human future
+* A call for utopical concepts and promising ideas related to the human future (as individual being and the human society)
 * An assembly of tools, skills, experiences, methodologies and approaches to make use of
-* A vehicle to create an agenda of relevant future questions (GRID AGENDA), which are main themes of action like an umbrella
-* A foundation of values
-* A conceptual framework (GRID MECHANICS) which can be replicated, hacked, adopted for other purposes
-* An impact creating organism - the GRID has to measure itself on its output to survive
-* Fun & passion
-* Experimental space
-* Social sculpture
-* A place to use your skills and individuality
-* A place where it is possible to find the right people for the realization of your idea
-* A room for learing and exchange
-* A mental model which only is driven and sustained by intrinsic motivation.
+* A vehicle to create an agenda of relevant future questions (GRID AGENDA), which are main themes of action like an umbrella - this implicitly questions perhaps the agenda setting
+* A foundation for interaction based on values
+* A conceptual framework (GRID MECHANICS) which can be replicated, hacked, adopted for other purposes - that's why we share it
+* An impact creating organism - the GRID has to measure itself on its output to survive furthermore > too low output will lead to new increments or death
+* Fun & passion as it is a social endeavor
+* Experimental space for functional and non-functional ideas
+* A place to make use of your skills and individuality through contribution
+* A place to find the right people for the realization of your idea
+* A room for learning and exchange of expertise
+* A mental model which purely is driven and sustained by intrinsic motivation
 
 [...]
 
-The *GRID is not*:
+
+
+#### The *GRID is not* ####
 
 * A place for trolling, bullying or any kind of discrimination
-* A place for racists, reactionsts, populists, fashists, homophobics
+* A place for racists, fashists, homophobics
 * A company or any other form of commercial undertaking
 * A place for one-directional consume of benefits / misuse of people skills (meaning: if one wants to get something out, one needs to bring something in)
 * Disconnected from existing laws and restrictions
