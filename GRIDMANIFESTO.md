@@ -1,5 +1,13 @@
 # GRID MANIFESTO #
 
+### What is the grid? For lazy readers - SUPER SHORT NUTSHELL THINGY ###
+
+* A collective of individuals
+* A social sculpture
+* A heterogene mix of interests and topics
+* A decentral and open construct, only restricted by its values
+* A collaboration environment to work on stuff which brings us all forward
+
 
 ### AN INTRODUCTION TO THE GRID ###
 
@@ -147,6 +155,8 @@ ____________
 
 There are MAIN THEMES and SUB ITEMS ...
 
+
+
 #### A MAIN THEME ####
 
 ... is 'a more or less everlasting topic on our radar'
@@ -157,7 +167,8 @@ There are MAIN THEMES and SUB ITEMS ...
 - All main themes in sum are a collection of topics / topic areas illustrating what the GRID feels of what needs to be improved
 
 
-#### SUB-ITEMS #### 
+#### SUB-ITEMS ####
+
 
 ... OF THE AGENDA are sub-items of MAIN THEMES.
 
@@ -178,21 +189,43 @@ As the initial GRID CORE we share or accumulate certain values.
 To identify a few of them let's list some thoughts ...
 
 * We deeply believe in the value of equality and the right on individual progress
-* Mankind has to research on ways to reduce its negative impact on surrounding lifeforms, for example caused by un-/intentionally created pain, suffering, ignorance and discrimination.
-* Mankind has to find ways to integrate individuality, the human collective to overcome the threat of extinction.
+* We value life and an form of it. Mankind has to research on ways to reduce its negative impact on surrounding lifeforms, for example caused by un-/intentionally created pain, suffering, ignorance and discrimination.
+* Mankind has to find ways to integrate individuality, the human collective to overcome the threat of extinction caused by itself.
 * The human being is a transitional species, trapped in-between archaic past and science-fiction. To accept ourselves and transform us towards positive potential, we need to discuss utopical ideas more importantly than framing conditions.
+* We value the human being as inventor, engineer, discoverer and searcher. That is one of our greatest strengths. We need to make use of this DNA in the most valuable and less desctructive way. We love technological progress, but not blind or mindless innovation.
+* We know, that we know nothing. But that is good, the longer way lies ahead not behind us. We think that any ultimate answer of today is nonsense. It is legit (perhaps) within a causal row of milestones. But it cannot be ultimatively true by definition. That is why search and empathy is more important than normative answers and megalomania. The flow as a state of change is the constant we value.
+* We value transparency, if it not collides with personal freedom. Personal freedom on the other side cannot be an argument to determine others in a negative way. For instance, in collision with human rights or the freedom of others. So, transparency as well as rights and the definition of freedom are doomed to be a permanent discourse. 
 
-Behaviour and attitudes we welcome:
+On the individual level we value:
 
-* critical challenging thinking
-* openness for exchange of thoughts
-* creativity and experimentation
-* the value of non-functionality
-* collaboration and constuctivity
-* individuality and collective repsonsibility
-* utopical conception of 'what can be'
+* critical thinking
+* openness for new thoughts and mental experiments
+* creativity, playfulness and attention to the details
+* the ability to value the non-functional
+* the mindset needed for collaboration
+* emotion, empathy and curiosity
+* individuality paired with interpersonal responsibility
+* flexibility towards the utopical conception of 'what could be'
 * sharing among others and contribution
-* curiosity and the willingness to learn
+* the willingness to learn and develop (alone or with the group)
+* the wisdom that excuses do not really matter
+
+Explicitly, we do not think that there is a huge value in conformity or normative behaviour. But compatibility to a set of values is important, even tough each value can be challenged at any time based on arguments. The different experiences of a human beings, the conclusions and insights collected, the opinions one can have - these are important sources of information for any bigger picture related discussion. Determining the diversity does not make any sense at all, when it's about conceptual work and social reality. That's why the GRID is really open for differencies, but a minimal buy-in for the values articulated is important. 
+
+#### GRID IMMUNE SYSTEM ####
+
+We do not want to waste time in pseudo-discussions with racists or similar  failed souls. All in all it is nothing to invest in, it is just to prevent.
+
+That would be a red line we draw for the GRID and within. 
+
+Perhaps, individually a gridster would speak to a person with that badly penetrated wordview to understand deeper reasons, conditions and fears, but we would never ever accept this kind of destructive misconception as a partner for dialogue. 
+
+That said, you can argue we are not open in an ultimate form. True. 
+There will always be the deliberate difference when it comes to the point by which people (because of fear, money, power or bad education or what ever) became a virus for the collective mind. We do not want people to transmute into such a dead-end mindfuck, but if that is the case, then it is about defense. 
+
+Finally, a virus has no other purpose than consuming others for the own sake. Perhaps it got utilized as a tactical weapon without a real own purpose. In any case, such malfunctional programming has to be isolated, fought or if still possible reprogrammed with highest attention. The GRID would act as its own immune system trying to destroy the cause for defection.
+
+If this sound hard for you, then think again and iterate.
 
 
 ### GRID FRAMEWORK ###
@@ -210,14 +243,8 @@ If you want to share your findings, ideas or feedback, please reach out to
 
 
 
-### What is the grid? ###
 
-* A collective of individuals
-* A social sculpture
-* A heterogene mix of interests and topics
-* A decentral and open construct, only restricted by its values
-
-### Grid ressources ###
+### Other GRID ressources ###
 
 * URL
 * BLOG
