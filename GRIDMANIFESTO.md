@@ -74,6 +74,49 @@ The GRID has no investors, it is just there ...
 
 ____________
 
+
+#### What are some beliefs to get the picture ? ####
+
+
+The mental model of the world has to shift into some big picture attitude.
+Let's do a short experiment of thoughts... 
+
+If you project the human species in a point in time contradicting the present status quo. What are possible thoughts in here?
+
+It is not that spectacular to think humanity without nations.
+It would not be extremely surprising that - in 1-2 thousands of years - we had to find ways to change our paradigms for energy production, for food production, for the search and mining and consumption of ressources, for the definition of work, for what a religion is, for technology we have to develop based on future challenges. 
+
+What do you think?
+
+What is a minimal viable reality in a thousand years?
+
+To be not the ultimate looser in a thousand years, what would be the consequence projected back into our present reality?
+
+Which parameters should be taken into the calculation here?
+
+Some aspects are rather simple:
+
+We will have problems with ressources sooner or later. If you extrapolate the growth rate of our species for a century (like a weather forecast let's say) and if you add the ressource consumption of today into this calculation, then you don't have to be a genius to come to the conclusion that there might be a problem one day. How do we normally act in such situations (use history books here)? Hmmm ... pretty uncool, right? Which alternative realities could be provoked then, if we change variables in the near future? Which variables do we put to discussions, which are not to discuss? Then what will result?
+
+Some aspects are rather complicated:
+
+Like the *Club of rome* had some errors in extrapolation, most people will have errors in extrapolation towards a bigger picture. Because bigger pictures never are free from intention, because you always miss the unpredictable variable, because we are only smart in reviews. That's perhaps our cognitive condition. But the bigger picture is not really about the accurate calculation, it is about the interpretation which adaption needs to be done, if this or that outcome shall be the preferred one. Compare this to the doomsday clock ...  [(check it out here)](https://thebulletin.org/doomsday-clock/) Most of us think, doomsday is rather uncool - let's not have it. That's why we measure 'somehow on a qualitative scale' what might be the threat causing doomsday to come. Then you can make up a system to measure against. In the beginning it was primarily related to atomic / nuclear risk. Today it is also taking other variables into the reflection, like climate change or disruptive technologies. This means - the symbol 'doomsday' works good enough for the projection, even more illustrated by the clock showing how near we are to that point. But the variables which might have impact on speeding up or slowing down the transition process towards a 'really bad point in reality' have to be updated. Also these relations has to be weighted in regards to the possible effects. All in all - it is not math, it is discussion. This is not weakining the validity of the statement, but the reference system is not built upon facts, but speculations. The matter of doomsday as a symbol for the ultimate problem would not change here. 
+
+Let's now assume that it is not finally of any value that a mental model is built on math, but on a relational systems connecting root causes, effects, things we want or we deny. Then, it is more about where or how or under which conditions we want to be our kind to life in a future. If - and only if - we have empathy with all the unborn of us, then this would create a set of paradigms for our existence.
+
+The bigger picture shall be connected to anything not only connected with us right now. The small picture shall be what works for us, but not for the guys after us. A construct like the 'Doomsday' is sort of putting most of us into the status of being innocent, as it is coming from somewhere, caused by something external. But if you take this differently into conception, then the more objective symbol would be connected to an 'us' deciding that there are no future version of 'us', right? We are never innocent or only victims as a group. As individuals, perhaps.
+
+...
+
+The GRID is based on the belief, that it is as has to be of importance, what each of us is doing and what we want to achieve over time.
+Individuality is super great. NOT the neglection of other beings after or besides one of us. Not thinking ahead is monstrous and can be compared to ultimate war crimes related to potential effects. 
+
+We have to improve ourselves to stay compatible to laws of the present!
+
+
+
+____________
+
 #### What are the targets of the GRID? ####
 
 The **targets of the GRID** (articulated out of a present perspective) are deeply connected to what was already introduced. To pin it down to more measurable statements, let's take a look at a list of these:
