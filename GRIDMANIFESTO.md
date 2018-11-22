@@ -130,38 +130,6 @@ The **targets of the GRID** (articulated out of a present perspective) are deepl
 - The GRID should always be connected to technology and science.
 - The GRID should be valuable as a social environment, which is not centrally controlled.
 
-____________
-
-
-### THE AGENDA ###
-
-There are MAIN THEMES and SUB ITEMS ...
-
-
-
-#### A MAIN THEME ####
-
-... is 'a more or less everlasting topic on our radar'
-
-- It is everlasting in a sense, that is not a weekly thing, nothing connected to daily politics, nothing which is done once a connected project succesfully was done
-- Reflect a MAIN THEME as a **category of challenge** to think and act for / against
-- A main theme could be 'ENVIRONMENT & SUSTAINABILITY' or 'FUTURE OF WORK'
-- All main themes in sum are a collection of topics / topic areas illustrating what the GRID feels of what needs to be improved
-
-
-#### SUB-ITEMS ####
-
-
-... OF THE AGENDA are sub-items of MAIN THEMES.
-
-Example: 
-MAIN THEME is ENVIRONMENT & SUSTAINABILITY
-- a sub item would be SUSTAINABLE FOOD (PRODUCTION)
-
-Per sub-item we collect initiatives, papers, discussions, findings on this topic. All items therefore reflect a more actionable projection-area than the main themes above - which are perhaps more the framing foundation. 
-
-We do not need more than these two levels of categorization. 
-
 
 ____________
 
@@ -192,76 +160,18 @@ On the individual level we value:
 * the willingness to learn and develop (alone or with the group)
 * the wisdom that excuses do not really matter
 
+
 Explicitly, we do not think that there is a huge value in conformity or normative behaviour. But compatibility to a set of values is important, even tough each value can be challenged at any time based on arguments. The different experiences of a human beings, the conclusions and insights collected, the opinions one can have - these are important sources of information for any bigger picture related discussion. Determining the diversity does not make any sense at all, when it's about conceptual work and social reality. That's why the GRID is really open for differencies, but a minimal buy-in for the values articulated is important. 
 
-#### GRID IMMUNE SYSTEM ####
-
-We do not want to waste time in pseudo-discussions with racists or similar  failed souls. All in all it is nothing to invest in, it is just to prevent.
-
-That would be a red line we draw for the GRID and within. 
-
-Perhaps, individually a gridster would speak to a person with that badly penetrated wordview to understand deeper reasons, conditions and fears, but we would never ever accept this kind of destructive misconception as a partner for dialogue. 
-
-That said, you can argue we are not open in an ultimate form. True. 
-There will always be the deliberate difference when it comes to the point by which people (because of fear, money, power or bad education or what ever) became a virus for the collective mind. We do not want people to transmute into such a dead-end mindfuck, but if that is the case, then it is about defense. 
-
-Finally, a virus has no other purpose than consuming others for the own sake. Perhaps it got utilized as a tactical weapon without a real own purpose. In any case, such malfunctional programming has to be isolated, fought or if still possible reprogrammed with highest attention. The GRID would act as its own immune system trying to destroy the cause for defection.
-
-If this sound hard for you, then think again and iterate.
 
 
-### GRID FRAMEWORK ###
 
-See more details in [GRID MECHANICS](./GRIDMECHANICS.md)
+### GRID assets you will find here ###
 
-The GRID FRAMEWORK explains ideas and concepts for running the GRID.
-
-Besides infos about the GRID or the GRID MANIFSTO itself this framework will be published as food for thoughts.
-We invite everyone and every social constellation to adapt, hack, modify or replicate certain concepts or the full framework for own purposes. The GRID collective will for shure see evolution, so that we will change underlying approaches or practices. Important changes will be updated. 
-
-The GRID FRAMEWORK is influenced by different ideas and concept, like:
-
-* beuys' idea of the social sculpture
-* agility / the agile manifesto
-* holacracy and other new forms of thinking organizations 
-* responsive org 
-* decentralization, also in the context of denentralized networks and technology approches like blockchain (conceptually at least) of course
-* liquid democracy
-
-... and many more.
-
-Let's have a look at some of the assumptions ...
-
-* Organizations should not affect indivudals in a way that undermines the potential of the indivudal, as this reduces the evolution / development  capabilities of the organization and the individual in a way that is not reasonable
-* It is a highly valuable statement of the agile manifesto, that it is about *individuals and interactions over processes and tools* [see here](https://agilemanifesto.org/). The value of this statement would be weakened if intrerpreted to freely, like if that would understood as an argument for the statement, that any subject could easily destroy any agreed process, because it is about individuals, not processes. The people are needed to learn from what they do and based on different subjective insights and their individuality, their individual impediments and ambitions. Individuals as group should learn to adapt new processes based on how they interact. A person of a group only following own interests without any sense for consensus is not essentially useful for the group; but easily the individual perspective can be shared with the group, so that adaption can follow. Which means 'individuals' and the 'interactions' between the individuals are in the center of what consitutes the idea of a group. Processes and tools are only a concequence and nothing consitutional in that sense. This idea is very valuable.
-* Agile methodologies in particular, like SCRUM or KANBAN, do not always work out (that's said based on own experience, not categorically) and for instance can easily be misused or disinterpreted, so that problems arise. SCRUM for instance, requires a lot of commitment and role-understanding of everyone involved. In practice and once real individuals come intp play, there are many pitfalls. 
-* Approaches regarding incremental progress (as we know from software development for example) offer great opportunities for the stepwise adaption towards a higher validity of the outcome, can reduce 'risks' more realistically and allow more regular reflection towards value creation. They help to overcome monolithic thinking approaches which require a super hypothesis in the very beginning of a development. But there are also many pitfalls, as people tend to loose sight, if working on increments which are to narrow, etc. . The take here is, that openness towards finetuning based on granular reflection, learning based on the outcome of steps / increments (not based on the whole route) and the breaking down of invests (like in time) towards the achievement of mini-milestones ... all of this makes perfect sense as a practical way to do things. Once this idea is internalized, it can be applied to many aspects in reality. For example, of how democratic practices could be brought into a next level.
-*  The idea of decentral organization of *constructs* is perhaps only possible after ideas of system theory (take Luhmann or autopoietic theories) and a bit of complexity theory. If the connection was done deliberately or not, the whole idea of how technical (remember the early cybernetic systems described) or social system has to be broken down in subsystems, environements etc. can also be found again in newer thoughts on decentral organization. And perhaps this is not even surprsising as, during our last centuries, we widened and deepened our observation on a macro and micro scale. For instance in astrophysics, biology, quantum theory or when trying to just forecast weather. What influenced the idea of the grid is, that the decentral organization of a 'construct' or organism would be the most robust and flexible one paired, plus, the decentral idea of this concstruct would be more robust against misusage or inflexibility of the construct. Sub-grids are an example which could be easily compared with sub-systems. The overall system is only a mental model for it's part. And the same goes for a sub-system. The atomic scale would be an individual, an idea, a concept. This all intentionally contradicts the idea of central determination of an organism, which still is the typical 'top-down' or hierarchical form of how most social systems and organizations are designed. This means that the GRID design tries to follow the principle of decentrality and bottom-up organization, but enriches this which the additional (and more pragmatical) idea of a CORE GROUP and functions. The purpose behind these constructs is the idea of maintenance, service, aggregation and community management. So both constructs, CORE GROUP and functions, should be interpreted as inner service functions to maintain the interaction between sub-systems, towards agenda building, consensus building or onboarding of new gridsters. 
-* Liquid democracy was also mentioned as one of the influencial concepts. In the first version of the GRID we soon identified the problem of low participation for the decision making process. In other words, it is very important for an organism to be actionable towards the own ambitions. If for example the lack of participation would provoke a situation by which votings cannot be done or consensus cannot be created, then the organims cannot move and loses its potential impact and purpose. Because of this there has to be a way to define a current state of mind which will be sufficient to make a decision, like towards a shared initiative or important agenda decisions. There are different ways to design such ways to create a minimal viable consensus, so that the needed pace is possible based on the interaction design.
+* Perhaps start with a [GRID INTRO](./GRIDINTRO.md)
+* or jump directly to [GRIDMANIFESTO](./GRIDMANIFESTO.md)
+* then perhaps heck out the [GRID MECHANICS](./GRIDMECHANICS.md)
+* or get depper into [further information and context](./GRIDFURTHERREAD.md)
 
 
-This hopefully gave some insights on which ideas influenced the GRID methodologies. The overall package of these concepts will be called GRID MECHANICS or as a bundle of concepts GRID FRAMEWORK.
-
-If you want to share your additional findings, ideas or feedback to improve the [GRID MECHANICS](./GRIDMECHANICS.md), please feel free to reach out to 
-
-[gridcore@into-the-grid.org](mailto:gridcore@into-the-grid.org)
-
-Due to the mindset of adaption and openness towards change, and to not let processes determine individuals and their interactions, the GRID MECHANICS have been changed and will change. Significant updates will be posted.
-
-
-### Other GRID ressources ###
-
-* [GRID - further information and context](./GRIDFURTHERREAD.md)
-* URL
-* BLOG
-* Slack - GRID MEMBRANE
-* GRID REPOS
-* GRID DOCS
-
-
-### Ideas we like ###
-
-[Responsive Org](http://www.responsive.org/manifesto)
-
-[Agile Manifesto](http://agilemanifesto.org/)
 
