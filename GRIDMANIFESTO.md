@@ -1,83 +1,8 @@
 # GRID MANIFESTO #
 
-### What is the grid? For lazy readers - SUPER SHORT NUTSHELL THINGY ###
-
-* A collective of individuals
-* A social sculpture
-* A heterogene mix of interests and topics
-* A decentral and open construct, only restricted by its values
-* A collaboration environment to work on stuff which brings us all forward
-* A concept in feasibility test
-
-
-### AN INTRODUCTION TO THE GRID ###
-
-The GRID got ramped-up in May 2018.
-
-An early ambition for a concept like the GRID was to form a decentralized organized network of individuals to make things happen. Individuals of any color, sex, religion or social background ..., but compatible enough to form a platform for new chances and higher impact.
-
-Chances for the creation of cultural assets as well as chances for bringing together the right people at the right time to form new initiatives.
-
-As articulated in the film Fight Club ... 
-
-	'You are not your job.
-	You are not how much money you have in the bank.
-	You are not the shoes you wear.
-	You are not the contents of your wallet.'
-
-... the fundamental motivation behind the GRID is to start an experiment liberating individual and group potential. A potential, not driven by money, not regulated by power, but intrisic motivation. A potential which could be focused furthermore for doing good stuff with higher positive impact for the individual being and collective journey.
-
-The GRID'S ambition level on a more abstract level is to form a workforce dedicated to the challenge of thinking in better versions of the world. 
-
-And we think, that it is on each of us to improve many aspects of our world:
-
-####*//side-intro*####
-
-Let's say ... the world is not totally fucked-up, but ...
-
-... many of the latest global political trends, caused by reactionary, populist or even autocratic misconception and degration of reality require immediate and long-term action. As humanity we have to become better version of ourselves, not the contrary. We are not consumers, not slaves, not ressources for anyone else - we are the difference when it comes to future. 
-
-Our world is n-dimensionally connected and physically limited when it comes earths ressources we feast on or the air we breathe. Only the increase of collective wisdom, foresight, empathie and collaboration will save us. We need to increase the civilisatoric evolutionspeed. We need a vision of ourselve. Not anything like the law of the jungle, more walls, suppression, protectionism or any other prehistoric behavioural pattern. We have to invest into a global sociocultural progress, we do not must go back into trees or holes, throwing stones at each other. 
-
-More than that, humanity has to face many major challenges, for example caused by the effect of climate change and our global impact connected the immoral exploitation of natural ressources (including other species). We must grow up and find ways to re-think what we do and how we do it. Not corporates will save, not any of our gods, and for sure - none of the reactionary leaders. It's not about democracy here - it is about future models and concepts of how we could live, of what we want to achieve, of how we can define and reach a  healthy global prosperity level open for all, equality of chances and rights, global do's and dont's and balanced behaviour with our surrounding environment and other life.
-
-Even more than that, we have to answer so many detailed ethical, pragmatical or existentially important questions within a highly complex world. We haven't overcome fundamental problems, like warfare, discrimination and other hygiene factors compared to what it takes looking into future. We are absolutely not sure what robotics, AI, automation, nano- and biotech and other disruptive technologies will finally mean to our shared existence. Economy at this stage is also just forming new empires, not a better world, if we think about the increased gap between super-rich and poor individuals.
-
-There were a lot of good evolutions going on during the last thousands of years. But what needs attention is the shit. So the lines before shall not express cultural pessimism at its best - on the contrary, it is articulated out of the ambition and strong belief that we can achieve a lot of more crazy things if we only try it and do not lay back. Plus, it is not the time to lay back, since some of the achievements for which many souls fought over centuries can get lost again. We have to pay attention to the big picture and the detail. That is the mission without alternative.
-
-####*//side-intro end*####
-
-The GRID is and will not be an answer to the big question of this centruy. 
-
-(Promise!)
-
-But it tries to identify valid questions on a high and low level. 
-
-It is just meant as a small brick on the road which needs to be paved, not the road itself. The GRID is intended to perhaps become a social plastic, a think tank, a decentral collaboration collective, a room for reflection, analysis and debate.
-
-*Nothing more.*
-
-*And nothing less.*
-
-**This all starts with people.** People, who show buy-in and are willing to share lots and lots of hours of discussion, exchanging hypotheses and chatting.
-People who try and fail - endless times perhaps. 
-
-
-The GRID is not a promise, it's an unproven experiment.
-
-The GRID is not a political party, it's just people.
-
-The GRID is not a secret organization, it's an environment of collaborators.
-
-The GRID is not a commercial project, it's a social plastic.
-
-The GRID has no investors, it is just there ...
-
-____________
 
 
 #### What are some beliefs to get the picture ? ####
-
 
 The mental model of the world has to shift into some big picture attitude.
 Let's do a short experiment of thoughts... 
@@ -113,8 +38,6 @@ The GRID is based on the belief, that it is as has to be of importance, what eac
 Individuality is super great. NOT the neglection of other beings after or besides one of us. Not thinking ahead is monstrous and can be compared to ultimate war crimes related to potential effects. 
 
 We have to improve ourselves to stay compatible to laws of the present!
-
-
 
 ____________
 
