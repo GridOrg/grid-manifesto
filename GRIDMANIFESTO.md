@@ -1,5 +1,17 @@
 # GRID MANIFESTO #
 
+The GRID is nothing more than a concept.
+A concept for incremental evolution towards the harmonization of individuality and the human society understood as a collective.
+This concept takes the formulation of possibilities (like utopical visions) as pre-requisite for the reflection of the present in the context of a bigger picture.
+To achieve a level of richness of perspectives and to maintain the idea of human society as a whole, the valuing of diversity is a common sense for the GRID.
+An important ambition behind the GRID is to collaborate. Collaboration on promising ideas, on art, on possibly new products, on thoughts ... that's a very practical dimension of the GRID.
+We, the GRID collective, want to sponsor each other based on contribution, on sharing skills and perspectives. By doing so, we want to create a strong foundation for thinking and doing as well.
+The thinking dimension is focussed on present and future as well. Which problems do we have to overcome as global society? Which aspects determine the individual to unleash its full potential?
+The doing dimension is driven by the passion of experimenting, building and playing. We value the mindset of the engineer, the artist, the inventor. Doing and thinking are both connected to the spirit of change.
+We are deeply convinced of the idea that human society has to learn to become one global collective, which also integrates the individuality of each being. 
+We believe that this is necessary not only for survival, but also to step finally step out of the circle of greed, pain and destruction.
+The articulation of bold visions, like utopical ideas, is necessary in a tim by which oldschool leaders infect the planet again with the ideas of nationalisms, elitarisms, greatness and a whole bunch of other shit.
+Human society came a long way to invent some good ideas like democracy, equality or environmental protection and to understand that our fate is interwinded, that our ressources are limited and that all life is valuable.
 
 
 #### What are some beliefs to get the picture ? ####
