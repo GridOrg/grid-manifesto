@@ -8,6 +8,6 @@ WELCOME TO THE GRID _
 
 * Perhaps start with a [GRID INTRO](./GRIDINTRO.md)
 * or jump directly to [GRIDMANIFESTO](./GRIDMANIFESTO.md)
-* then perhaps heck out the [GRID MECHANICS](./GRIDMECHANICS.md)
-* or get depper into [further information and context](./GRIDFURTHERREAD.md)
+* then perhaps check out the [GRID MECHANICS](./GRIDMECHANICS.md)
+* or get deeper into [further information and context](./GRIDFURTHERREAD.md)
 
